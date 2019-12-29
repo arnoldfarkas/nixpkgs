@@ -3348,6 +3348,7 @@ broken-packages:
   - boolexpr
   - boombox
   - boomslang
+  - boopadoop
   - boots-app
   - boots-cloud
   - boots-web
@@ -8271,6 +8272,7 @@ broken-packages:
   - quicktest
   - quickwebapp
   - quipper
+  - quipper-all
   - quipper-core
   - quipper-rendering
   - quiver-binary
@@ -8414,6 +8416,7 @@ broken-packages:
   - refresht
   - refurb
   - reg-alloc
+  - reg-alloc-graph-color
   - regex-deriv
   - regex-dfa
   - regex-generator
@@ -9803,6 +9806,7 @@ broken-packages:
   - typedquery
   - typehash
   - TypeIlluminator
+  - typelevel-rewrite-rules
   - typelevel-tensor
   - TypeNat
   - typeparams
