@@ -2752,6 +2752,7 @@ broken-packages:
   - accelerate-arithmetic
   - accelerate-fftw
   - accelerate-fourier
+  - accelerate-kullback-liebler
   - accelerate-llvm-native
   - accelerate-random
   - accelerate-typelits
@@ -5650,6 +5651,7 @@ broken-packages:
   - hdr-histogram
   - HDRUtils
   - headergen
+  - heart-app
   - heartbeat-streams
   - heatitup
   - heatitup-complete
@@ -7251,6 +7253,8 @@ broken-packages:
   - mmsyn4
   - mmsyn6ukr
   - mmsyn7h
+  - mmsyn7l
+  - mmsyn7s
   - mmsyn7ukr
   - mmtf
   - mmtl
