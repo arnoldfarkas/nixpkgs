@@ -600,6 +600,8 @@ in {
     inherit (pkgs) substituteAll dotnet-sdk;
   };
 
+  doxypypy = callPackage ../development/python-modules/doxypypy { };
+
   emcee = callPackage ../development/python-modules/emcee { };
 
   emailthreads = callPackage ../development/python-modules/emailthreads { };
